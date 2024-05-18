@@ -1,3 +1,4 @@
-# PhP-Tutorial 
-.Basic understadning PhP code 
-. Author: Dr. Mohsin Shaikh
+# PhP-Tutorial
+
+.Basic understadning PhP code
+. Author: Dr. Mohsin Shaikh (Php Tutorial)
